@@ -5,3 +5,6 @@ members - Aditya Bhatt B,
           Aishwarya M,
           Gautham,
           Pranav Menon,
+
+Usage of YOLO algorithm for object detection
+
